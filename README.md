@@ -1,4 +1,3 @@
-eyes.utils
-===================
+# eyes.utils
 
-[![npm](https://img.shields.io/npm/v/eyes.utils.svg?style=for-the-badge)](https://www.npmjs.com/package/eyes.utils)
+This repository is deprecated. It has moved to [eyes-sdk-javascript](https://github.com/applitools/eyes.sdk.javascript1/tree/master/packages/eyes-sdk-core-legacy)
